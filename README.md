@@ -25,8 +25,8 @@ Print the output.
 ## PROGRAM:
 ```python 
 To write a program for getting the word count from a file.
-Developed by:Harini V
-RegisterNumber:22004214
+Developed by:Ezhil sree J
+RegisterNumber:23012968
 
 def wordcount():
     cnt = 0
